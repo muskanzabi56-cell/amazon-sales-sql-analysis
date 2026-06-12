@@ -1,4 +1,4 @@
-# amazon-sales-sql-analysis
+# Amazon-sales-sql-analysis
 # Amazon Sales Analysis using SQL
 
 ## Project Overview
